@@ -1,0 +1,32 @@
+body {
+
+    background-color: rgb(101, 212, 157);
+
+}
+
+h1 {
+    color: rgb(225, 36, 36);
+}
+
+h3 {
+    border: solid 4px;
+    background-color: #ddefdc;
+}
+
+.color{
+    color: red;
+
+}
+ul{
+    /*fonte negrito*/
+    font-weight: bolder;
+   /*fonte italico*/
+    font-style: italic;
+    /*espaçamento de fontr*/
+    line-height: 2.5;
+    /*tamanho da fonte*/
+    font-size: 15px;
+    /*alinhamento de fonte*/
+    text-align: right;
+    text-decoration: underline;
+}
